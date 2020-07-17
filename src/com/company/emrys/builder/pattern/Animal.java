@@ -1,4 +1,4 @@
-package com.company.emrys.BuilderPattern;
+package com.company.emrys.builder.pattern;
 
 public class Animal {
 

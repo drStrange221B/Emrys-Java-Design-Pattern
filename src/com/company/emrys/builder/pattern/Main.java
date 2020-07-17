@@ -1,7 +1,7 @@
-package com.company.emrys;
+package com.company.emrys.builder.pattern;
 
-import com.company.emrys.BuilderPattern.Animal;
-import com.company.emrys.BuilderPattern.Type;
+import com.company.emrys.builder.pattern.Animal;
+import com.company.emrys.builder.pattern.Type;
 
 public class Main {
 
